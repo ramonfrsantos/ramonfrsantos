@@ -1,7 +1,7 @@
 ### Olá, Ramon aqui! ✌
 
 - 🔭 Hoje trabalho com backend
-- 🌱 Estudando Flutter
+- 🌱 Estudando Flutter e Javascript =D
 
 <div align="center">
   <a href="https://linktr.ee/ramonfrsantos">
