@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com backend
 - 🌱 Estudando Flutter
-- 😄 Ele/dele
 
 <div align="center">
   <a href="https://linktr.ee/ramonfrsantos">
